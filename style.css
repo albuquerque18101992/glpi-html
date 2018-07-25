@@ -1,0 +1,113 @@
+body {
+    font-family: 'Bitstream Vera Sans', Verdana, Tahoma, 'Sans serif';
+    font-size: 13px;
+    margin: 0;
+    padding: 0px;
+    background: #006573;
+    height: auto;
+    min-height: 100%;
+    position: relative;
+    
+ }
+
+ #boxlogin{
+    width: 100%;
+    height: 100%;
+    background: #006573;
+     
+     
+}
+ 
+ #logo-login {
+    background: #008B8D;
+    text-align: center;
+    padding: 30px;
+    
+    
+ }
+
+ .text-login {
+    
+    background-color: #008B8D;
+    color: #FFF;
+    text-align: center;
+    padding: 30px;
+    
+ }
+ 
+ .boxlogin .login-input {
+     
+    position: relative;
+    margin: 15px auto 5px;
+    width: 240px;
+    
+ }
+
+ .submit{
+     text-align:center;
+     color: #816644;
+     background-color: #F4D4AD;
+     margin-top: 20px;
+     width: 100%;
+     height: 30px;
+     font-size: 1.3em;
+     font-weight: bold;
+     margin: 15px auto 5px;
+ }
+
+.senha{
+    height: 25px;
+    width: 81%;
+    border-radius: 5px;
+    padding-left: 40px; 
+    
+}
+.login{
+    
+    height: 25px;
+    width: 81%;
+    border-radius: 5px;
+    padding-left: 40px;
+}
+
+#troca{
+    margin-top: 50px;
+    color: #FFF;
+    width: 100%;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+#footer-login{
+    position: absolute;
+    font-size : 9px;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding:140px 35px 0px 0px;
+
+}
+
+#footer-login a{
+    position: relative;
+    left: 110%;
+    text-decoration: none;
+    color: #FFF;
+       
+}
+
+.teste i{
+   color:#aaa;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 10px;
+   top: 10px;
+   font-size: 1.5em;
+   
+}
+.logo-logi, .imagem{
+    text-align: center;
+    margin: 15px auto 5px;
+}
